@@ -1,0 +1,3 @@
+It is incorrect because  since the else clause is nested within the loop it causes the program to only look at the first letter
+and the program returns the value of the first letter of word in letters instead of looking at
+the whole word and then determining if none of the letters fit
